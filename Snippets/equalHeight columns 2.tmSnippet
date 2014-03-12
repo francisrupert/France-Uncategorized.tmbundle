@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.equalheight {
+	overflow:hidden;
+	margin-bottom:20px;
+}
+.equalheight .column {
+	padding-bottom:1000em;
+	margin-bottom:-1000em;
+}
+</string>
+	<key>name</key>
+	<string>equalHeight columns</string>
+	<key>tabTrigger</key>
+	<string>equal</string>
+	<key>uuid</key>
+	<string>F9627680-67C1-4523-B51D-D3CE558FA980</string>
+</dict>
+</plist>

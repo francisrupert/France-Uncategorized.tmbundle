@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>width: 500px; /** older browsers **/
+width: -webkit-calc(50% - 20px); /** Chrome / Safari **/
+width:    -moz-calc(50% - 20px); /** FF 4-15  **/
+width:      -o-calc(50% - 20px); /** could be calc(), no idea about Opera's plans **/
+width:         calc(50% - 20px); /** FF 16+, IE 9+, and future other browsers **/</string>
+	<key>name</key>
+	<string>calc(val + val)</string>
+	<key>scope</key>
+	<string>source.css, source.less, source.scss</string>
+	<key>tabTrigger</key>
+	<string>calc</string>
+	<key>uuid</key>
+	<string>6911A3E5-D093-4F4D-8C58-597CCEAEECFB</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;input name="${1:name}" list="$1" type="text" /&gt;
+&lt;datalist id="$1"&gt;
+	&lt;option value="${0:value}"&gt;
+	&lt;option value="ipsum"&gt;
+	&lt;option value="dolor"&gt;
+	&lt;option value="sitem"&gt;
+&lt;/datalist&gt;</string>
+	<key>name</key>
+	<string>datalist</string>
+	<key>tabTrigger</key>
+	<string>datalist</string>
+	<key>uuid</key>
+	<string>82A86609-2CC5-4C6D-BAF4-9F0638636D75</string>
+</dict>
+</plist>

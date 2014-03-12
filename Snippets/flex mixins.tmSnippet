@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>// flexbox
+
+@mixin displayflex {
+    display : -webkit-box; 
+    display :    -moz-box; 
+    display :     -ms-flexbox;
+    display : -webkit-flex;
+    display :         flex;
+}
+
+@mixin align-items(\$align) {
+    -webkit-align-items : \$align;
+       -moz-align-items : \$align;
+         -o-align-items : \$align;
+            align-items : \$align;
+}
+
+@mixin flex(\$flex, \$width) {
+    -webkit-box-flex : \$flex;  
+       -moz-box-flex : \$flex;
+               width : \$width;
+        -webkit-flex : \$flex;
+            -ms-flex : \$flex;
+                flex : \$flex;
+}
+
+@mixin order(\$order) {
+    -webkit-box-ordinal-group : \$order;
+       -moz-box-ordinal-group : \$order;
+               -ms-flex-order : \$order;
+                -webkit-order : \$order;
+                        order : \$order;
+}
+
+// @include flex-start(VALUE) (flex-start | flex-end | center | space-between | space-around)
+
+@mixin content-justify(\$justify) {
+    -webkit-content-justify : \$justify;
+       -moz-content-justify : \$justify;
+         -o-content-justify : \$justify;
+            content-justify : \$justify;
+}
+
+// @include flex-direction(VALUE) (row | row-reverse | column | column-reverse)
+
+@mixin flex-direction(\$direction) {
+    -webkit-flex-direction : \$direction;
+       -moz-flex-direction : \$direction;
+         -o-flex-direction : \$direction;
+            flex-direction : \$direction;
+} 
+</string>
+	<key>name</key>
+	<string>flex mixins</string>
+	<key>scope</key>
+	<string>source.scss, source.css</string>
+	<key>tabTrigger</key>
+	<string>flex</string>
+	<key>uuid</key>
+	<string>B7485ECE-C3CE-4809-9E86-008A062FC6AC</string>
+</dict>
+</plist>

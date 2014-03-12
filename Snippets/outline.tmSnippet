@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>outline: 1px solid ${1:red};
+outline-offset: ${2:0}px;$0</string>
+	<key>name</key>
+	<string>outline</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>tabTrigger</key>
+	<string>outline</string>
+	<key>uuid</key>
+	<string>035B9FDB-1BB2-4BBC-AC70-77B1D1EA2018</string>
+</dict>
+</plist>

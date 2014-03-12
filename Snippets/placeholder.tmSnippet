@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>::-webkit-input-placeholder {
+    color: ${1:#999};
+}
+:-moz-placeholder {
+    color: $1;
+}</string>
+	<key>name</key>
+	<string>placeholder</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>tabTrigger</key>
+	<string>placeholder</string>
+	<key>uuid</key>
+	<string>DBC0C63B-495B-42C5-B496-D987C3F3CAED</string>
+</dict>
+</plist>

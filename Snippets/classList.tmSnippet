@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var el = document.querySelector('#main').classList;
+el.add('highlight');
+el.remove('shadow');
+el.toggle('highlight');
+
+// http://html5-demos.appspot.com/static/html5-whats-new/template/index.html#11
+// http://dochub.io/#dom/classlist
+// https://github.com/eligrey/classList.js/blob/master/classList.js</string>
+	<key>name</key>
+	<string>classList</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>classlist</string>
+	<key>uuid</key>
+	<string>EAA06483-769A-43F4-94F7-4CECC829A655</string>
+</dict>
+</plist>

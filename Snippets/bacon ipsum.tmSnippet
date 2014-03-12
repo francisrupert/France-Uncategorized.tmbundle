@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;${1:p}&gt;Bacon ipsum dolor sit amet consequat duis irure, drumstick corned beef nostrud brisket elit non sunt. Ea enim tongue, ut rump est do bacon shoulder. Ham flank id, dolore strip steak culpa cillum ut. Reprehenderit qui aliqua do, flank pork belly sirloin est rump tongue ea corned beef dolor laborum venison. Cow in irure magna et. Sirloin incididunt esse in magna. Fatback elit meatball swine dolore spare ribs mollit, pork loin labore ad chicken incididunt aute cillum commodo.&lt;/${1}&gt;
+&lt;${1}&gt;Ut qui salami sausage deserunt, hamburger ball tip. Pariatur shankle fatback, incididunt flank duis jerky. Sed commodo beef, ut pork chop eiusmod do. Ham hock pancetta brisket id ad minim tri-tip. Shankle ham qui cupidatat shoulder est, consequat meatball tempor. Jerky brisket tenderloin, velit boudin voluptate non pastrami pork aute laboris tri-tip exercitation sausage. Chuck ut magna pastrami salami spare ribs.&lt;/${1}&gt;
+&lt;${1}&gt;Shankle tenderloin strip steak beef sausage officia. Velit short ribs sed tenderloin shank. Cow aliquip pork belly magna in, sirloin id ea beef esse consequat. Reprehenderit pork loin hamburger, aute laborum mollit dolor meatball labore. Shank ground round aliquip shoulder biltong, dolor venison jowl. Irure tempor laboris eu turkey labore, ribeye quis excepteur eiusmod chicken sint beef. Aliqua fatback aliquip culpa consectetur est.&lt;/${1}&gt;
+&lt;${1}&gt;Shankle ea flank pork loin short loin. Officia tenderloin in pork loin shoulder. Chicken cupidatat bacon cillum cow tempor, shoulder aliqua duis short ribs nisi tail tongue pig. Fugiat occaecat pastrami, enim tail shankle dolore velit quis swine et sunt in. Cupidatat shankle aute, dolor esse sint aliqua. Ham hock in officia chuck sed culpa. Tongue beef ribs tail exercitation laboris, reprehenderit spare ribs.&lt;/${1}&gt;
+&lt;${1}&gt;Irure do fugiat non tenderloin shoulder pork chop, sint jowl enim ut. Minim andouille shank fugiat occaecat, quis tenderloin boudin strip steak. Beef laborum salami velit sausage, commodo veniam shoulder sed. Irure laboris et, jowl fatback pork belly pancetta andouille. Commodo bacon nisi culpa pork belly, venison sausage dolore ham hock proident strip steak aliqua flank laboris fatback. Corned beef et pig officia ham hock hamburger. Qui cow officia sint, ball tip boudin shankle dolor eiusmod andouille.&lt;/${1}&gt;
+$0</string>
+	<key>name</key>
+	<string>bacon ipsum</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>lorem</string>
+	<key>uuid</key>
+	<string>B223A34F-7F32-4DE9-B005-ACEA0BB43F7E</string>
+</dict>
+</plist>

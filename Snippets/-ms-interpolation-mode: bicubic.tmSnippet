@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-ms-interpolation-mode: bicubic</string>
+	<key>name</key>
+	<string>-ms-interpolation-mode: bicubic</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>tabTrigger</key>
+	<string>ms</string>
+	<key>uuid</key>
+	<string>6C475E44-D3AB-41BF-9887-356C2B52A829</string>
+</dict>
+</plist>

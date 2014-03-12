@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>application
+banner
+complementary
+contentinfo
+main
+navigation
+search</string>
+	<key>name</key>
+	<string>aria roles</string>
+	<key>tabTrigger</key>
+	<string>roles</string>
+	<key>uuid</key>
+	<string>FFDBF41A-3C5D-4957-8C1D-CAD961F6D140</string>
+</dict>
+</plist>

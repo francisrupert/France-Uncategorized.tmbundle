@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>button::-moz-focus-inner,input::-moz-focus-inner {
+    border: 0;
+    padding: 0
+}
+</string>
+	<key>name</key>
+	<string>-moz-focus-inner: ZERO DAMMIT</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>tabTrigger</key>
+	<string>moz</string>
+	<key>uuid</key>
+	<string>7B46ABB8-5BE8-44C1-8E9B-86C3C8CD3E6D</string>
+</dict>
+</plist>

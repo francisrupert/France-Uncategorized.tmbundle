@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;p&gt;Lorem ipsum dolor sit ametel dignissim brevitas eum praesent vindico nisl. Sit, adsum jus olim aliquip tego ideo, iustum validus regula. Incassum mos luptatum acsi jugis iusto vel. Gilvus voco ingenium roto, quis occuro dignissim. Enim conventio praesent, duis hendrerit consequat ingenium neque et saepius suscipere velit. Ideo enim mara facilisis ad, validus abluo eligo odio. &lt;/p&gt;
+&lt;p&gt;Haero torqueo ille fatua esse, vero antehabeo acsi distineo iusto esse illum. &lt;/p&gt;
+&lt;p&gt;Accumsan indoles refero meus camur, incassum ludus, natu refoveo persto accumsan feugiat diam olim, consectetuer. Autem euismod, vel abigo premo letalis si abigo lobortis vereor. &lt;/p&gt;
+&lt;p&gt;Patria turpis tum, ut importunus ideo verto laoreet. Singularis jugis eum accumsan macto voco vero dolus letatio abbas duis pagus, tincidunt, duis, opes. &lt;/p&gt;
+&lt;p&gt;Esca turpis genitus tum nulla reprobo, enim delenit, ludus, nostrud natu feugait, enim blandit. Ullamcorper autem rusticus dolor, voco fere iriure singularis capto vulpes. Uxor, pala virtus interdico comis sed modo, ullamcorper pala indoles suscipere, letalis, delenit. Utinam, os vel nostrud at et, reprobo consequat, exerci populus. Neque vero bene melior quidne premo, feugiat at obruo, duis multo. Praesent cogo aliquip dignissim ibidem neo, facilisi duis comis ullamcorper elit causa in esca. &lt;/p&gt;
+&lt;p&gt;Appellatio gemino virtus abdo feugiat occuro ut, consequat volutpat in meus lenis. Eum ad odio diam iaceo rusticus ullamcorper magna bis. Eligo incassum letalis nullus vicis facilisi commoveo adipiscing exputo eros. Quis vindico persto opes praesent quod turpis mara multo persto voco multo ventosus delenit distineo. &lt;/p&gt;
+</string>
+	<key>name</key>
+	<string>greek</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>lorem</string>
+	<key>uuid</key>
+	<string>B32E2B47-F904-4960-B094-7F5DBA3FEF26</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>document.documentElement.classList.remove('no-js'); // Adding here to avoid FOUC
+document.documentElement.classList.add('yes-js');
+</string>
+	<key>name</key>
+	<string>no-js toggle</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>no-js</string>
+	<key>uuid</key>
+	<string>F47C1DF5-566C-416D-8DE0-E2A98B1352D2</string>
+</dict>
+</plist>

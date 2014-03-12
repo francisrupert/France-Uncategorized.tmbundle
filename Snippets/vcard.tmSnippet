@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="vcard"&gt;
+&lt;span class="fn"&gt;Sally Ride&lt;/span&gt;
+(&lt;span class="n"&gt;
+&lt;span class="honorific-prefix"&gt;Dr.&lt;/span&gt;
+&lt;span class="given-name"&gt;Sally&lt;/span&gt;
+&lt;abbr class="additional-name"&gt;K.&lt;/abbr&gt;
+&lt;span class="family-name"&gt;Ride&lt;/span&gt;
+&lt;span class="honorific-suffix"&gt;Ph.D.&lt;/span&gt;&lt;/span&gt;),
+&lt;span class="nickname"&gt;sallykride&lt;/span&gt; (IRC)
+&lt;div class="org"&gt;Sally Ride Science&lt;/div&gt;
+&lt;img class="photo" src="http://example.com/sk.jpg"/&gt;
+&lt;a class="url" href="http://sally.example.com"&gt;w&lt;/a&gt;,
+&lt;a class="email" href="mailto:sally@example.com"&gt;e&lt;/a&gt;
+&lt;div class="tel"&gt;+1.818.555.1212&lt;/div&gt;
+&lt;div class="adr"&gt;
+&lt;div class="street-address"&gt;123 Main st.&lt;/div&gt;
+&lt;span class="locality"&gt;Los Angeles&lt;/span&gt;,
+&lt;abbr class="region" title="California"&gt;CA&lt;/abbr&gt;,
+&lt;span class="postal-code"&gt;91316&lt;/span&gt;
+&lt;div class="country-name"&gt;U.S.A&lt;/div&gt;&lt;/div&gt;
+&lt;time class="bday"&gt;1951-05-26&lt;/time&gt; birthday
+&lt;div class="category"&gt;physicist&lt;/div&gt;
+&lt;div class="note"&gt;1st American woman in space.&lt;/div&gt;
+&lt;/div&gt;
+
+via http://microformats.org/wiki/hcard</string>
+	<key>name</key>
+	<string>vcard</string>
+	<key>tabTrigger</key>
+	<string>vcard</string>
+	<key>uuid</key>
+	<string>7ABACAAD-5961-4447-8E65-041F93A289D5</string>
+</dict>
+</plist>

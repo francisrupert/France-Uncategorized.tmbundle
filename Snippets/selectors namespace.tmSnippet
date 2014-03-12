@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.Button {}
+.ButtonGroup {}
+.Button--primary {}
+.ButtonGroup-item {}</string>
+	<key>name</key>
+	<string>selectors namespace</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>tabTrigger</key>
+	<string>selectors</string>
+	<key>uuid</key>
+	<string>85AE2B81-07AD-4002-AE42-E0A6663069B2</string>
+</dict>
+</plist>

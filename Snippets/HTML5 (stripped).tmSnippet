@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html&gt;
+
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;title&gt;${1:Page title}&lt;/title&gt;${2:
+    &lt;link rel="shortcut icon" href="path/to/favicon.png" /&gt; &lt;!-- the traditional favicon. Size: 16x16 or 32x32. Transparency is OK --&gt;}
+    &lt;link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/2.1.3/normalize.min.css" media="all" /&gt;${3:
+    &lt;script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.dev.min.js"&gt;&lt;/script&gt;}${4: 
+    &lt;script src="http://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.9/require.min.js"&gt;&lt;/script&gt;}
+&lt;/head&gt;
+&lt;body&gt;
+    ${5:do your thing}$0
+    &lt;script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"&gt;&lt;/script&gt;
+    &lt;script&gt;
+        // do stuff down here
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</string>
+	<key>name</key>
+	<string>HTML5 (stripped)</string>
+	<key>tabTrigger</key>
+	<string>five</string>
+	<key>uuid</key>
+	<string>2DB3D540-9E54-497A-A585-74E9D18D66AA</string>
+</dict>
+</plist>

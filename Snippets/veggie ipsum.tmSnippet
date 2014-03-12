@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;${1:p}&gt;Veggies sunt bona vobis, proinde vos postulo esse magis sea lettuce tatsoi wakame spring onion radish yarrow earthnut pea broccoli azuki bean lotus root kombu dandelion chickweed mustard.&lt;/${1}&gt;
+&lt;${1}&gt;Radicchio celery broccoli welsh onion bamboo shoot sorrel sea lettuce leek azuki bean garlic mung bean garlic bell pepper komatsuna gourd onion. Daikon bunya nuts sorrel endive bok choy aubergine dulse napa cabbage artichoke celery seakale broccoli rabe tomatillo salad. Garlic broccoli celery gram arugula brussels sprout caulie garlic eggplant cucumber soko chicory chickpea turnip greens courgette komatsuna.&lt;/${1}&gt;
+&lt;${1}&gt;Shallot epazote spring onion swiss chard mustard kakadu plum wattle seed broccoli avocado gourd pea sprouts burdock garlic groundnut. Arugula quandong bok choy water chestnut courgette winter purslane earthnut pea. Celery green bean peanut spring onion eggplant pea collard greens lettuce fava bean gumbo prairie turnip corn watercress. Earthnut pea parsley bell pepper courgette grape chard dandelion peanut lettuce cucumber caulie garlic tomato groundnut maize tatsoi. Swiss chard chickpea beetroot gourd pea eggplant collard greens plantain avocado salad potato swiss chard celtuce radicchio chicory bamboo shoot leek.&lt;/${1}&gt;
+&lt;${1}&gt;Garbanzo napa cabbage gram potato salsify arugula kale. Groundnut welsh onion dandelion parsley beetroot bush tomato swiss chard cucumber pea sprouts fava bean rutabaga daikon onion. Bunya nuts water chestnut radish soko rock melon tomato burdock endive silver beet.&lt;/${1}&gt;
+$0</string>
+	<key>name</key>
+	<string>veggie ipsum</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>lorem</string>
+	<key>uuid</key>
+	<string>575DAD49-205B-46DD-97A8-316131363D4B</string>
+</dict>
+</plist>

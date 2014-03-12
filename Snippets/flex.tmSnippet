@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/* OLD WAY */
+.parent {
+    display: -webkit-box;
+    display:    -moz-box;
+    display:     -ms-box;
+    display:         box;
+}
+.child {
+    -webkit-box-flex: 1;            
+       -moz-box-flex: 1;
+        -ms-box-flex: 1;
+}
+
+/* NEW WAY */
+
+.parent {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+.child {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+.reorder {
+    -webkit-box-ordinal-group:2;
+              -ms-flex-order: 2;
+               -webkit-order: 2;
+                       order: 2
+}
+
+/* INSPIRATION: https://github.com/ptb/flexgrid */</string>
+	<key>name</key>
+	<string>flex basic</string>
+	<key>scope</key>
+	<string>source.css, source.less, source.scss</string>
+	<key>tabTrigger</key>
+	<string>flex</string>
+	<key>uuid</key>
+	<string>D8325808-C5B3-49B7-A8CF-EC6B8A864CF5</string>
+</dict>
+</plist>

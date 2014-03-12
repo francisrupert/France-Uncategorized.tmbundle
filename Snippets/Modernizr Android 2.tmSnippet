@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.touch.no-webgl &amp; {
+	$0
+}
+</string>
+	<key>name</key>
+	<string>Modernizr Android</string>
+	<key>tabTrigger</key>
+	<string>android</string>
+	<key>uuid</key>
+	<string>9FA3F8A9-0CB9-46DD-8582-58C177CDEA5D</string>
+</dict>
+</plist>

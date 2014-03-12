@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;link rel="stylesheet" href="http://localhost:8888/sandbox/debug.css"&gt;</string>
+	<key>name</key>
+	<string>debug css</string>
+	<key>tabTrigger</key>
+	<string>debug</string>
+	<key>uuid</key>
+	<string>652B070E-065C-42B6-9DFC-BFEF6E26319D</string>
+</dict>
+</plist>

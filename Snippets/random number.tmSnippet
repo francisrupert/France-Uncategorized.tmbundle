@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Math.random()</string>
+	<key>name</key>
+	<string>random number</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>random</string>
+	<key>uuid</key>
+	<string>F9E7B88B-6B85-441B-B132-4FD7A8EA4BB9</string>
+</dict>
+</plist>

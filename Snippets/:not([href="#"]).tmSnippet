@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>a:not([href="#"]) {
+	color : red; 
+}</string>
+	<key>name</key>
+	<string>:not([href="#"])</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>tabTrigger</key>
+	<string>not</string>
+	<key>uuid</key>
+	<string>38BF1C3B-0698-4030-89A1-BAB0C564FAFD</string>
+</dict>
+</plist>

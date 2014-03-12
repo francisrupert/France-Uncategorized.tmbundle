@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script&gt;document.write('&lt;script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"&gt;&lt;/' + 'script&gt;')&lt;/script&gt;</string>
+	<key>name</key>
+	<string>Live Reload</string>
+	<key>tabTrigger</key>
+	<string>reload</string>
+	<key>uuid</key>
+	<string>3C74CBA3-DACA-425F-A389-969C3BC005DF</string>
+</dict>
+</plist>

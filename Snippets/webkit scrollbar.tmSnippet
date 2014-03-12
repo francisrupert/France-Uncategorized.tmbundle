@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>::-webkit-scrollbar {
+	width:15px;
+	height:15px;
+}
+
+
+::-webkit-scrollbar-track-piece  {
+	background-color:#C2D2E4;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+	height:30px;
+	background-color:#0A4C95;
+}</string>
+	<key>name</key>
+	<string>webkit scrollbar</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>tabTrigger</key>
+	<string>scroll</string>
+	<key>uuid</key>
+	<string>EA49A74D-4948-44F6-A486-664526C990AD</string>
+</dict>
+</plist>

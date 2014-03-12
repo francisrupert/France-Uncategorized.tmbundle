@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>text-indent: -999em; 
+overflow: hidden;
+/* Others: http://css-tricks.com/examples/ImageReplacement/ */</string>
+	<key>name</key>
+	<string>image replacement (text-indent)</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>tabTrigger</key>
+	<string>ir</string>
+	<key>uuid</key>
+	<string>4C859741-4559-454D-8787-800600BBB6AF</string>
+</dict>
+</plist>

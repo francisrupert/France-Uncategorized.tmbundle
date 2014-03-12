@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.live('click', function() {
+	$0
+});</string>
+	<key>name</key>
+	<string>live()</string>
+	<key>scope</key>
+	<string>source.js.jquery</string>
+	<key>tabTrigger</key>
+	<string>.live</string>
+	<key>uuid</key>
+	<string>3321BF73-61AD-47D4-892D-CD4D4ABEA953</string>
+</dict>
+</plist>
