@@ -8,8 +8,6 @@
 	<string>console.log</string>
 	<key>scope</key>
 	<string>source.js</string>
-	<key>tabTrigger</key>
-	<string>log</string>
 	<key>uuid</key>
 	<string>6F489D5A-7D47-4DD9-BEFD-314FA2DB9BAC</string>
 </dict>
