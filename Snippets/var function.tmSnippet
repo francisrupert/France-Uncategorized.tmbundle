@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:functionName} = {
+  init: function () {
+      $('body').on('click', '[data-behavior~="asdf"]', function() {
+          ${1:functionName}.${2:subFunctionName}(this)
+      });
+  },
+  ${2:subFunctionName}: function (el) {
+
+  }
+}
+
+jQuery(document).ready(${1:functionName}.init);
+</string>
+	<key>name</key>
+	<string>var function</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>var</string>
+	<key>uuid</key>
+	<string>4C356DCC-A220-4C9C-B849-529256A8B53D</string>
+</dict>
+</plist>
