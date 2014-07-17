@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>https://github.com/krasimir/gifffer</string>
+	<key>name</key>
+	<string>gifffer</string>
+	<key>tabTrigger</key>
+	<string>gifffer</string>
+	<key>uuid</key>
+	<string>75888DBD-15AC-4395-9E01-09739C5023AF</string>
+</dict>
+</plist>
