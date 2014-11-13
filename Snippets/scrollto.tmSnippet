@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>// via http://css-tricks.com/snippets/jquery/smooth-scrolling/
+//     http://css-tricks.com/examples/SmoothPageScroll/
+
+$(function() {
+  $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') &amp;&amp; location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});</string>
+	<key>name</key>
+	<string>scrollto</string>
+	<key>tabTrigger</key>
+	<string>scrollto</string>
+	<key>uuid</key>
+	<string>BAEAFE5E-FD30-4238-B58A-DC16B984562C</string>
+</dict>
+</plist>

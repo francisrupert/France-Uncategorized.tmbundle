@@ -10,7 +10,7 @@
       });
   },
   ${2:subFunctionName}: function (el) {
-
+      var \$self = \$(el);
   }
 }
 

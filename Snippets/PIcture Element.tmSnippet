@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!-- POLYFILL: http://scottjehl.github.io/picturefill/#download --&gt;
+&lt;picture&gt;
+    &lt;!--[if IE 9]&gt;&lt;video style="display: none;"&gt;&lt;![endif]--&gt;
+	&lt;source srcset="extralarge.jpg" media="(min-width: 1000px)"&gt;
+	&lt;source srcset="large.jpg" media="(min-width: 800px)"&gt;
+	&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+	&lt;img srcset="small-or-medium.jpg" alt=""&gt;
+&lt;/picture&gt;</string>
+	<key>name</key>
+	<string>PIcture Element</string>
+	<key>tabTrigger</key>
+	<string>picture</string>
+	<key>uuid</key>
+	<string>29AE5E43-81D8-406F-82BC-646835A07364</string>
+</dict>
+</plist>

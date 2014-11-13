@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include box-sizing(border-box);</string>
+	<string>setTimeout(function() {
+    $0
+}, $1);
+</string>
 	<key>name</key>
-	<string>box-sizing</string>
+	<string>set timeout</string>
 	<key>scope</key>
-	<string>source.css, source.scss, source.less</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>box</string>
+	<string>timeout</string>
 	<key>uuid</key>
-	<string>5C244F92-4CF0-42E1-9681-2029985DE69A</string>
+	<string>DFAD3EBE-FA32-4905-B472-F1B456B783B6</string>
 </dict>
 </plist>
