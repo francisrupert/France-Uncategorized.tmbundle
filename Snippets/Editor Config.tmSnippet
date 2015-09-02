@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># http://editorconfig.org
+root = true
+
+[*]
+indent_style = ${1|space,tab|}
+indent_size = ${2|2,4|}
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.textile]
+trim_trailing_whitespace = false${0}</string>
+	<key>name</key>
+	<string>Editor Config</string>
+	<key>tabTrigger</key>
+	<string>editorconfig</string>
+	<key>uuid</key>
+	<string>FF8BE325-F160-4AF9-98DA-B4BCDF91365C</string>
+</dict>
+</plist>
